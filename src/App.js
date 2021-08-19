@@ -1,15 +1,19 @@
 import Counter from "./Counter";
 import Figure from "./Figure";
 import Catalog from "./Catalog";
-import Form from "./Form";
+import Contacts from "./Contacts";
+import LoginForm from "./LoginForm";
+import Todos from "./Todos";
 
 function App() {
   return (
     <div className="App">
-        <Counter />
-        <Figure />
-        <Catalog />
-        <Form />
+        {/*<Counter />*/}
+        {/*<Figure />*/}
+        {/*<Catalog />*/}
+      {/*<Contacts />*/}
+      {/*  <LoginForm />*/}
+        <Todos />
     </div>
   );
 }
