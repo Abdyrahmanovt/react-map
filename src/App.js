@@ -10,12 +10,12 @@ function App() {
     <div className="App">
         {/*<Counter />*/}
         {/*<Figure />*/}
-        {/*<Catalog />*/}
+        <Catalog />
       {/*<Contacts />*/}
       {/*  <LoginForm />*/}
-        <Todos />
+      {/*  <Todos />*/}
     </div>
-  );
+  )
 }
 
 export default App;
