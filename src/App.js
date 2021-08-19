@@ -6,10 +6,10 @@ import Form from "./Form";
 function App() {
   return (
     <div className="App">
-        {/*<Counter />*/}
-        {/*<Figure />*/}
+        <Counter />
+        <Figure />
         <Catalog />
-        {/*<Form />*/}
+        <Form />
     </div>
   );
 }
